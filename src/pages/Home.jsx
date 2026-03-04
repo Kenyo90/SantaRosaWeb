@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <Box colorScheme="teal" size="lg">
-        Branch Developer 🚀 
+        Hola Chakra 🚀
       </Box>
     </div>
   )
